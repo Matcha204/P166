@@ -1,0 +1,11 @@
+Model Information:
+* title:	A Simple Lightbulb
+* source:	https://sketchfab.com/3d-models/a-simple-lightbulb-b63f65374f0640f69b3fe7a95e2cbc8b
+* author:	Miguel Adão (https://sketchfab.com/theauditor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "A Simple Lightbulb" (https://sketchfab.com/3d-models/a-simple-lightbulb-b63f65374f0640f69b3fe7a95e2cbc8b) by Miguel Adão (https://sketchfab.com/theauditor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
